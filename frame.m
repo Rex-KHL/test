@@ -1,3 +1,4 @@
+%% change name
 vid=VideoReader('A001C0008_20220919085101_0001.MP4');
 n=vid.NumberOfFrames;
 for i=3
